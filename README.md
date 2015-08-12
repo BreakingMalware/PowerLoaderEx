@@ -1,6 +1,6 @@
 # PowerLoaderEx
 * Advanced Code Injection Technique for x32 / x64
-* More Info: http://www.slideshare.net/enSilo/injection-on-steroids-codeless-code-injection-and-0day-techniques?utm_source=slideshow&utm_medium=ssemail&utm_campaign=post_upload_view_cta
+* More Info: http://goo.gl/3CdZHw
 
 # Original PowerLoader
 * Known since ~2013
